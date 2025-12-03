@@ -1,2 +1,2 @@
-# detourist.github.io
-Detourist - Free Form Text to Route
+# Detourist - Free Form Text to Route
+Landing Page
